@@ -1,4 +1,4 @@
-# SegmnentAKS
+# SegmentAKS
 
 SegmentAKS is a package that explores the nodule surface area correlation that was published in [Sweetman et al. 2024](https://www.nature.com/articles/s41561-024-01480-8), and adds additional data. It shows a method of image segmentation and surface area calculation and calculates correlation coefficients of surface area and nodule weight against rises in oxygen concentration.
 
